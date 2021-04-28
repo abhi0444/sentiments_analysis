@@ -1,7 +1,9 @@
 # Sentiments_Analysis
 
 `` Hear I have done sentiment analysis of US Airline Dataset on Kaggle using NLP and Deep Leaning ``
+
 `` Dataset Link - https://www.kaggle.com/crowdflower/twitter-airline-sentiment ``
+
 `` Classes in Dataset - Positive, Negative & Neutral ``
 
 ## Appraoch 1 - Using Machine Learning 
@@ -55,6 +57,10 @@
 
   `` 3 . Graph Outputs ``
   
+  ![Validation Loss & Training Loss](https://github.com/abhi0444/sentiments_analysis/blob/main/assets/download.png)
+  
+  
+  ![Validation Accuracy & Training Accuracy](https://github.com/abhi0444/sentiments_analysis/blob/main/assets/download%20(1).png)
   
   
   
