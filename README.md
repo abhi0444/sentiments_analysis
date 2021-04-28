@@ -12,8 +12,7 @@
   
   Classification Matrix 
   
-  ``
-                precision    recall  f1-score   support
+  ``            precision    recall  f1-score   support
 
            0       0.79      0.92      0.85      1806
            1       0.62      0.42      0.50       589
