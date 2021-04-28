@@ -12,15 +12,14 @@
   
   Classification Matrix 
   
-                precision    recall  f1-score   support
+                 precision    recall  f1-score   support
 
-           0       0.79      0.92      0.85      1806
-           1       0.62      0.42      0.50       589
-           2       0.74      0.58      0.65       486
-           
-   accuracy                            0.76      2881
-   macro avg       0.72      0.64      0.67      2881
-   weighted avg    0.75      0.76      0.75      2881
+            0       0.79      0.92      0.85      1806
+            1       0.62      0.42      0.50       589
+            2       0.74      0.58      0.65       486
+    accuracy                            0.76      2881
+    macro avg       0.72      0.64      0.67      2881
+    weighted avg    0.75      0.76      0.75      2881
   
   
 
