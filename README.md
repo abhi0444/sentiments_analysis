@@ -12,15 +12,18 @@
   
   Classification Matrix 
   
-  ``            precision    recall  f1-score   support
+  ``
+                precision    recall  f1-score   support
 
-           0       0.82      0.89      0.85      2771
-           1       0.61      0.45      0.52       944
-           2       0.68      0.67      0.68       677
+           0       0.79      0.92      0.85      1806
+           1       0.62      0.42      0.50       589
+           2       0.74      0.58      0.65       486
 
-    accuracy                           0.76      4392
-    macro avg       0.70      0.67      0.68      4392
-    weighted avg       0.75      0.76      0.75      4392   ``
+    accuracy                           0.76      2881
+   macro avg       0.72      0.64      0.67      2881
+weighted avg       0.75      0.76      0.75      2881
+  
+  ``
 
 
 ## Approach 2 - Using Deep Learning
