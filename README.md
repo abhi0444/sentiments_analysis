@@ -6,7 +6,7 @@
 
 `` Classes in Dataset - Positive, Negative & Neutral ``
 
-## Appraoch 1 - Using Machine Learning 
+## Appraoch 1 - Machine Learning 
 
   `` 1 . Algorith Used  - Multinomial Naive Bayes Classifier ``
   
@@ -26,7 +26,7 @@
   
 
 
-## Approach 2 - Using Deep Learning
+## Approach 2 - Deep Learning
 
 `` 1 . Validation Accuracy - 80.26% ``
 
