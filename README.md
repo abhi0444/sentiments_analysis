@@ -1,16 +1,16 @@
 # Sentiments_Analysis
 
-`` Hear I have done sentiment analysis of US Airline Dataset on Kaggle using NLP and Deep Leaning ``
+Hear I have done sentiment analysis of US Airline Dataset on Kaggle using NLP and Deep Leaning <br>
 
-`` Dataset Link - https://www.kaggle.com/crowdflower/twitter-airline-sentiment ``
+ Dataset Link - https://www.kaggle.com/crowdflower/twitter-airline-sentiment <br>
 
-`` Classes in Dataset - Positive, Negative & Neutral ``
+ Classes in Dataset - Positive, Negative & Neutral <br>
 
 ## Appraoch 1 - Machine Learning 
 
-  `` 1 . Algorith Used  - Multinomial Naive Bayes Classifier ``
+   1 . Algorith Used  - Multinomial Naive Bayes Classifier <br>
   
-  `` 2 . Accuracy - 76% ``
+   2 . Accuracy - 76% <br>
   
   Classification Matrix 
   
@@ -28,9 +28,9 @@
 
 ## Approach 2 - Deep Learning
 
-`` 1 . Validation Accuracy - 80.26% ``
+ 1 . Validation Accuracy - 80.26% <br>
 
-`` 2 . Testing Accuracy - 78.83% ``
+ 2 . Testing Accuracy - 78.83% <br>
 
   Model Actitecture 
   
